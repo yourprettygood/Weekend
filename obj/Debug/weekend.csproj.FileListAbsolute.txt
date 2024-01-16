@@ -1,0 +1,7 @@
+C:\VisualStudio\weekend\bin\Debug\weekend.exe.config
+C:\VisualStudio\weekend\bin\Debug\weekend.exe
+C:\VisualStudio\weekend\bin\Debug\weekend.pdb
+C:\VisualStudio\weekend\obj\Debug\weekend.csproj.AssemblyReference.cache
+C:\VisualStudio\weekend\obj\Debug\weekend.csproj.CoreCompileInputs.cache
+C:\VisualStudio\weekend\obj\Debug\weekend.exe
+C:\VisualStudio\weekend\obj\Debug\weekend.pdb
